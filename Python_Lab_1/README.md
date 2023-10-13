@@ -1,1 +1,1 @@
-# Mandar_Lab1_Python-for-DS
+Lab1_Python_for_DS
